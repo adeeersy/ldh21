@@ -1,2 +1,2 @@
 # ldh21
-# welcome to my operating system repo
+Welcome to my operating system repo
